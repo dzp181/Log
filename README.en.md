@@ -1,12 +1,9 @@
 # Log
 [中文](https://github.com/dzp181/Log/blob/master/README.md)
 
-*   ZLPhotoBrowser: Convenient and easy-to-use multi-selection framework for album photos, support for quick multiple selection of photos and previews; mixed selection of albums; original image functions, etc.。 [Official website](https://github.com/longitachi/ZLPhotoBrowser)
-*   CorePhotoBroswerVC:Preview gallery of local and web pictures。  [Official website](https://github.com/CharlinFeng/CorePhotoBroswerVC)
-*   MISImagePicker:Photo selection library with crop function [Official website](https://github.com/maokebing/MISImagePicker)
-*   IDMPhotoBrowser:Drawer display gallery
-       [Official website](https://github.com/ideaismobile/IDMPhotoBrowser)
-*   JTSImageViewController:A deep picture browser.
-        [Official website](https://github.com/jaredsinclair/JTSImageViewController)
-*   YLGIFImage:High-performance gif image processing library.
-      [Official website](https://github.com/liyong03/YLGIFImage)
+*   CleanroomLogger：一个基于 Swift 可配置可扩展的日志 API，简洁、轻量并且高效。★[官网](https://github.com/emaloney/CleanroomLogger)
+*   CocoaLumberjack：一个快捷强大灵活的日志框架，可用于 iOS &amp; Mac。[官网](https://github.com/CocoaLumberjack/CocoaLumberjack)
+*   NSLogger：一个高性能的日志工具，它可以显示运行在 OS X、iOS 和 Android 上客户端应用的踪迹。[官网](https://github.com/fpillet/NSLogger)
+*   Aardvark：一个高性能日志框架，它使得创建可操作的 bug 报告变得非常简单。[官网](https://github.com/square/Aardvark/)
+*   BlockTypeDescription：在日志记录 block 的时候显示类型签名。[官网](https://github.com/conradev/BlockTypeDescription)
+*   QorumLogs：为 Xcode 和 Google Docs 设计的 Swift 日志工具。★[官网](https://github.com/goktugyil/QorumLogs) 
