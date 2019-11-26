@@ -1,4 +1,7 @@
 # Log
+
+[en](https://github.com/dzp181/Log/blob/master/README.en.md)
+
 *   CleanroomLogger：一个基于 Swift 可配置可扩展的日志 API，简洁、轻量并且高效。★[官网](https://github.com/emaloney/CleanroomLogger)
 *   CocoaLumberjack：一个快捷强大灵活的日志框架，可用于 iOS &amp; Mac。[官网](https://github.com/CocoaLumberjack/CocoaLumberjack)
 *   NSLogger：一个高性能的日志工具，它可以显示运行在 OS X、iOS 和 Android 上客户端应用的踪迹。[官网](https://github.com/fpillet/NSLogger)
